@@ -20,7 +20,7 @@ limitations under the License.
 
 # writablePropertySymbols
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Return an array of an object's own writable symbol properties.
 
@@ -123,11 +123,11 @@ console.log( symbols );
 
 ## See Also
 
--   [`@stdlib/utils/inherited-writable-property-symbols`][@stdlib/utils/inherited-writable-property-symbols]: return an array of an object's inherited writable symbol properties.
--   [`@stdlib/utils/writable-properties`][@stdlib/utils/writable-properties]: return an array of an object's own writable property names and symbols.
--   [`@stdlib/utils/writable-property-names`][@stdlib/utils/writable-property-names]: return an array of an object's own writable property names.
--   [`@stdlib/utils/writable-property-symbols-in`][@stdlib/utils/writable-property-symbols-in]: return an array of an object's own and inherited writable symbol properties.
--   [`@stdlib/utils/property-symbols`][@stdlib/utils/property-symbols]: return an array of an object's own symbol properties.
+-   <span class="package-name">[`@stdlib/utils/inherited-writable-property-symbols`][@stdlib/utils/inherited-writable-property-symbols]</span><span class="delimiter">: </span><span class="description">return an array of an object's inherited writable symbol properties.</span>
+-   <span class="package-name">[`@stdlib/utils/writable-properties`][@stdlib/utils/writable-properties]</span><span class="delimiter">: </span><span class="description">return an array of an object's own writable property names and symbols.</span>
+-   <span class="package-name">[`@stdlib/utils/writable-property-names`][@stdlib/utils/writable-property-names]</span><span class="delimiter">: </span><span class="description">return an array of an object's own writable property names.</span>
+-   <span class="package-name">[`@stdlib/utils/writable-property-symbols-in`][@stdlib/utils/writable-property-symbols-in]</span><span class="delimiter">: </span><span class="description">return an array of an object's own and inherited writable symbol properties.</span>
+-   <span class="package-name">[`@stdlib/utils/property-symbols`][@stdlib/utils/property-symbols]</span><span class="delimiter">: </span><span class="description">return an array of an object's own symbol properties.</span>
 
 </section>
 
@@ -178,8 +178,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/utils-writable-property-symbols/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/utils-writable-property-symbols?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/utils-writable-property-symbols.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/utils-writable-property-symbols/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
