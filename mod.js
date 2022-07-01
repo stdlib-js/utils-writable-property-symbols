@@ -1,4 +1,0 @@
-// Copyright (c) 2022 The Stdlib Authors. License is Apache-2.0: http://www.apache.org/licenses/LICENSE-2.0
-/// <reference types="./mod.d.ts" />
-var r=void 0!==Object.getOwnPropertySymbols,t=Object.getOwnPropertySymbols;var e=r?function(r){return t(Object(r))}:function(){return[]},n=void 0!==Object.getOwnPropertyDescriptor,o=Object.getOwnPropertyDescriptor;var u=function(r,t){var e;return null==r||void 0===(e=o(r,t))?null:e},l=Object.prototype.hasOwnProperty;var a=function(r,t){return null!=r&&l.call(r,t)};var c=n?u:function(r,t){return a(r,t)?{configurable:!0,enumerable:!0,writable:!0,value:r[t]}:null};var i=e,v=function(r,t){var e=c(r,t);return null!==e&&(!0===e.writable||"function"==typeof e.set)};var b=function(r){var t,e,n;if(null==r)return[];for(t=i(Object(r)),n=0,e=0;e<t.length;e++)v(r,t[e])&&(t[n]=t[e],n+=1);return t.length=n,t};export{b as default};
-//# sourceMappingURL=mod.js.map
