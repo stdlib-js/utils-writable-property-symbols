@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import writablePropertySymbols from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-writable-property-symbols@esm/index.mjs';
+import writablePropertySymbols from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-writable-property-symbols@v0.2.2-esm/index.mjs';
 ```
 
 #### writablePropertySymbols( obj )
@@ -96,7 +96,7 @@ var symbols = writablePropertySymbols( obj );
 
 import hasSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-symbol-support@esm/index.mjs';
 import Symbol from 'https://cdn.jsdelivr.net/gh/stdlib-js/symbol-ctor@esm/index.mjs';
-import writablePropertySymbols from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-writable-property-symbols@esm/index.mjs';
+import writablePropertySymbols from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-writable-property-symbols@v0.2.2-esm/index.mjs';
 
 var hasSymbols = hasSymbolSupport();
 
